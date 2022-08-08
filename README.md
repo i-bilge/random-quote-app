@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+# Check the [output](https://random-quote-app-beige.vercel.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
